@@ -1,4 +1,4 @@
-package tree
+package sensitive_trie
 
 import (
 	"fmt"
@@ -20,7 +20,7 @@ func TestT(t *testing.T) {
 		"你是傻☺叉",
 		"shabi东西",
 		"他made东西",
-		"什么垃 圾打野，傻逼一样，叫你来开龙不来，SB",
+		"什么垃 圾打野，傻逼一样,叫你来开龙不来,SB",
 		"正常的内容☺",
 	}
 

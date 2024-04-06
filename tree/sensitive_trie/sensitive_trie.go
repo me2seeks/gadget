@@ -1,4 +1,4 @@
-package tree
+package sensitive_trie
 
 import (
 	"regexp"
